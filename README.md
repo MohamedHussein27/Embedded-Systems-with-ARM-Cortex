@@ -6,7 +6,7 @@ Each lab is contained within its own directory and includes the source code, doc
 
 ## Labs
 
-1. [Lab 4: UART Communication and LED Timing]("Lab 4"/README.md)
+1. [Lab 4: UART Communication and LED Timing](Lab-4/README.md)
    - Receives commands through UART to control LEDs with specific timings.
 2. [Lab 5: LED Blinking with SysTick Timer](Lab5/README.md)
    - Blinks LEDs after a delay using the SysTick timer.
